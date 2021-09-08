@@ -1,7 +1,7 @@
 {
     "name": "silverstallion1985/first-ex",
     "version": "1.0",
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "type": "contao-bundle",
     "description": "My First Contao Extension",
     "homepage": "https://contao.org",
